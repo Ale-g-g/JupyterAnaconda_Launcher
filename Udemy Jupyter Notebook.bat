@@ -4,7 +4,7 @@
 call C:\Users\[UserName]\anaconda3\Scripts\activate.bat C:\Users\[UserName]\anaconda3
 
 :: Selecting our desired environment:
-call conda activate Udemy 
+call conda activate [EnvName] 
 
 :: Showing our environment list, just to check that the environment is correcly selected:
 call conda env list
