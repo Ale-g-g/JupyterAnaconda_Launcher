@@ -10,4 +10,6 @@ It selects an existing environment of your choice, and opens Jupyter Notebook. M
 ## Instructions:
 - Find your system Anaconda folder, and find activate.bat
   - <anaconda_dir>/Scripts/activate.bat <anaconda_dir>
-- Edit the bat file and change [UserName] so the .activate.bat path is correct.
+- Edit the bat file and change:
+  - [UserName] so the .activate.bat path is correct.
+  - [EnvName] to your desired Environment Name
