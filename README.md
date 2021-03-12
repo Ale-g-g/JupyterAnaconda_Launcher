@@ -1,5 +1,6 @@
 # JupyterAnaconda_Launcher
 .bat file that opens Jupyter Notebook without having to open Anaconda Navigator.
+
 It can be used to automate other Anaconda add-ins as well!
 
 It selects an existing environment of your choice, and opens Jupyter Notebook. More info inside the code
